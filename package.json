@@ -1,0 +1,29 @@
+{
+  "name": "mocking-bird",
+  "version": "0.0.1.alpha",
+  "description": "API and data mocking library that stores records locally to quickly mock a React application.",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarona/mocking-bird.git"
+  },
+  "keywords": [
+    "React",
+    "mocking",
+    "hook",
+    "hooks",
+    "data"
+  ],
+  "author": "Aaron <_aaron@tutanota.com> (https://github.com/aarona)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarona/mocking-bird/issues"
+  },
+  "homepage": "https://github.com/aarona/mocking-bird#readme"
+}

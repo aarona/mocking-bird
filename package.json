@@ -1,6 +1,6 @@
 {
   "name": "mocking-bird",
-  "version": "0.0.1.alpha",
+  "version": "0.0.1-alpha",
   "description": "API and data mocking library that stores records locally to quickly mock a React application.",
   "main": "index.js",
   "engines": {
